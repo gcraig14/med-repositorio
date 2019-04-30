@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Download Manager Pro v4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-16 15:41+0600\n"
+"PO-Revision-Date: 2017-09-16 15:41+0600\n"
+"Last-Translator: \n"
+"Language-Team: Shaon <proshaon@yahoo.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.0.3\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: libs/daterangepicker/moment.min.js:6
+msgid "year"
+msgstr "ano"
+
+#: tpls/advanced-search-form.php:17 tpls/advanced-search-form.php:159
+#: wpdm-archive-page.php:294
+msgid "Publish Date"
+msgstr "Data de publicação"
+
+#: tpls/advanced-search-form.php:24 tpls/advanced-search-form.php:160
+#: wpdm-archive-page.php:296
+msgid "Last Updated"
+msgstr "Última atualização"
+
+#: tpls/advanced-search-form.php:39 tpls/advanced-search-form.php:62
+msgid "Today"
+msgstr "Hoje"
+
+#: tpls/advanced-search-form.php:40 tpls/advanced-search-form.php:63
+msgid "Yesterday"
+msgstr "Ontem"
+
+#: tpls/advanced-search-form.php:41 tpls/advanced-search-form.php:64
+msgid "Last 7 Days"
+msgstr "Últimos 7 dias"
+
+#: tpls/advanced-search-form.php:42 tpls/advanced-search-form.php:65
+msgid "Last 30 Days"
+msgstr "Últimos 30 dias"
+
+#: tpls/advanced-search-form.php:43 tpls/advanced-search-form.php:66
+msgid "This Month"
+msgstr "Este mês"
+
+#: tpls/advanced-search-form.php:44 tpls/advanced-search-form.php:67
+msgid "Last Month"
+msgstr "Mês passado"
+
+#: tpls/advanced-search-form.php:84 tpls/advanced-search-form.php:156
+#: wpdm-archive-page.php:297
+msgid "View Count"
+msgstr "Visualizações"
+
+#: tpls/advanced-search-form.php:88 tpls/advanced-search-form.php:157
+#: wpdm-archive-page.php:298
+msgid "Download Count"
+msgstr "Número de downloads"
+
+#: tpls/advanced-search-form.php:94
+msgid "Package Size In Bytes"
+msgstr "Tamanho de arquivo em Bytes"
+
+#: tpls/advanced-search-form.php:106
+msgid "Package Categories"
+msgstr "Categorias de arquivos"
+
+#: tpls/advanced-search-form.php:152
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: tpls/advanced-search-form.php:154
+msgid "Select Order By"
+msgstr "Seleção de ordem por"
+
+#: tpls/advanced-search-form.php:155 wpdm-archive-page.php:295
+msgid "Title"
+msgstr "Título"
+
+#: tpls/advanced-search-form.php:158 wpdm-archive-page.php:299
+msgid "Package Size"
+msgstr "Tamanho do arquivo"
+
+#: tpls/advanced-search-form.php:165
+msgid "Order"
+msgstr "Ordem"
+
+#: tpls/advanced-search-form.php:167 wpdm-archive-page.php:306
+msgid "Ascending Order"
+msgstr "Ordem ascendente"
+
+#: tpls/advanced-search-form.php:168 wpdm-archive-page.php:305
+msgid "Descending Order"
+msgstr "Ordem descendente"
+
+#: tpls/advanced-search-form.php:175
+msgid "Search By Keyword"
+msgstr "Pesquisar por palavra chave"
+
+#: tpls/advanced-search-form.php:176
+msgid "Looking For"
+msgstr "Procurando por"
+
+#: tpls/advanced-search-form.php:179 wpdm-archive-page.php:285
+#: wpdm-archive-page.php:286 wpdm-archive-page.php:1111
+msgid "Search"
+msgstr "Pesquisar"
+
+#: tpls/advanced-search-form.php:180
+msgid "Reset"
+msgstr "Resetar"
+
+#: tpls/advanced-search-result.php:156 wpdm-archive-page.php:488
+msgid "Download"
+msgstr "Baixar"
+
+#: tpls/advanced-search-result.php:176 wpdm-archive-page.php:503
+msgid "No download found!"
+msgstr "Nenhum arquivo encontrado!"
+
+#: tpls/aps-content-cat.php:65 tpls/archive-page-with-sidebar.php:94
+msgid "View Details"
+msgstr "Detalhes de visualização"
+
+#: tpls/archive-page-with-sidebar.php:39
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: tpls/archive-page-with-sidebar.php:44
+msgid "Newest Items"
+msgstr ""
+
+#: tpls/simple-search-form.php:3
+msgid "Search Package"
+msgstr "Pesquisar arquivo"
+
+#: tpls/simple-search-form.php:16 wpdm-archive-page.php:1002
+#: wpdm-archive-page.php:1072
+msgid "Search Result For"
+msgstr "Pesquisar por"
+
+#: tpls/simple-search-form.php:17 tpls/simple-search-form.php:21
+#: wpdm-archive-page.php:984 wpdm-archive-page.php:1009
+#: wpdm-archive-page.php:1031 wpdm-archive-page.php:1059
+#: wpdm-archive-page.php:1064 wpdm-archive-page.php:1073
+#: wpdm-archive-page.php:1080 wpdm-archive-page.php:1082
+msgid "Loading"
+msgstr "Carregando"
+
+#: wpdm-archive-page.php:275
+msgid "Category:"
+msgstr "Categoria:"
+
+#: wpdm-archive-page.php:292
+msgid "Order By:"
+msgstr "Ordenar por:"
+
+#: wpdm-archive-page.php:303
+msgid "Order:"
+msgstr "Ordem:"
+
+#: wpdm-archive-page.php:315
+msgid "Home"
+msgstr ""
+
+#: wpdm-archive-page.php:316
+#, fuzzy
+#| msgid "Download"
+msgid "All Downloads"
+msgstr "Baixar"
+
+#: wpdm-archive-page.php:329
+msgid "Select category or search"
+msgstr "Escolher categoria ou pesquisar"
+
+#: wpdm-archive-page.php:575
+msgid "Link Template for Archive Page"
+msgstr ""
+
+#: wpdm-archive-page.php:709
+#, php-format
+msgid "View all posts in %s"
+msgstr "Ver todas as postagens em %s"
+
+#: wpdm-archive-page.php:1002
+msgid "in category"
+msgstr "na categoria"
+
+#: wpdm-archive-page.php:1128
+msgid "Title:"
+msgstr "Título:"
+
+#: wpdm-archive-page.php:1132
+msgid "Search Result Page"
+msgstr "Resultado de busca"
+
+#: wpdm-archive-page.php:1135
+msgid ""
+"Note: Create a page with short-code <code>[wpdm_search_page]</code> and "
+"select that page as search redult page"
+msgstr ""
+
+#~ msgid "All Packages"
+#~ msgstr "Todos os arquivos"
