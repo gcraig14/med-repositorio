@@ -5,7 +5,7 @@
       <paths name="Giselle-MedRepo">
         <serverdata>
           <mappings>
-            <mapping deploy="/public_html/med-repositorio" local="$PROJECT_DIR$" web="/med-repositorio" />
+            <mapping deploy="/public_html/med-repositorio" local="$PROJECT_DIR$" web="" />
           </mappings>
         </serverdata>
       </paths>
